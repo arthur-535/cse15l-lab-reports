@@ -1,6 +1,3 @@
-#Fruit Tier List
-- Bananas
-- Apples
-- Grapes
-- Oranges
-
+1. bat
+2. cat 
+3. draw
